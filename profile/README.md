@@ -23,42 +23,34 @@ Selama magang, saya mengeksplorasi berbagai teknologi untuk menyelesaikan solusi
 ## 🚀 Proyek Utama & Kontribusi
 Berikut adalah proyek-proyek yang saya kembangkan selama masa magang:
 
-### 1. Flutter Laundry (Mobile App)
-* **Deskripsi:** Aplikasi mobile berbasis Flutter untuk manajemen operasional jasa laundry.
-* **Fitur Utama:** Tracking status cucian, manajemen pelanggan, dan kalkulasi biaya otomatis.
+### 1. Social Media & Article Automation
+* **Deskripsi:** Membangun workflow menggunakan **n8n** untuk mengotomatisasi distribusi konten artikel ke berbagai platform media sosial secara bersamaan.
+* **Tanggung Jawab:** Integrasi API pihak ketiga, manipulasi data JSON, dan pengaturan trigger otomatis untuk publikasi konten.
+* **Hasil:** Mengurangi waktu operasional manajemen konten hingga 70%.
+
+### 2. Flutter Laundry (Mobile App)
+* **Deskripsi:** Aplikasi mobile berbasis Flutter untuk manajemen operasional jasa laundry (Tracking status, manajemen pelanggan, & kalkulasi biaya).
 * **Tech Stack:** Dart, Flutter, SQLite.
 
-### 2. Voucher Management System
-* **Deskripsi:** Sistem berbasis web untuk pembuatan, distribusi, dan validasi voucher secara sistematis.
-* **Tanggung Jawab:** Membangun logika backend dan integrasi database untuk memastikan kode voucher unik dan aman.
+### 3. Voucher Management System
+* **Deskripsi:** Sistem berbasis web untuk pembuatan, distribusi, dan validasi voucher secara sistematis untuk memastikan keamanan kode.
 * **Tech Stack:** HTML, PHP (Laravel).
 
-### 3. Watermark Service (Microservice)
-* **Deskripsi:** Service otomatisasi untuk memberikan watermark pada dokumen atau gambar secara massal.
-* **Tanggung Jawab:** Mengembangkan template tampilan menggunakan Blade engine dan integrasi logic pemrosesan gambar.
+### 4. Watermark Service (Microservice)
+* **Deskripsi:** Service otomatisasi untuk menyematkan watermark pada dokumen/gambar secara massal menggunakan template Blade.
 * **Tech Stack:** Blade, PHP.
 
-### 4. ArmBand-Monitor (IoT/Embedded)
-* **Deskripsi:** Proyek pemantauan kesehatan/aktivitas melalui perangkat keras armband.
-* **Tanggung Jawab:** Mengembangkan firmware untuk pembacaan sensor dan komunikasi data.
+### 5. ArmBand-Monitor (IoT/Embedded)
+* **Deskripsi:** Pengembangan firmware untuk perangkat wearable pemantau aktivitas menggunakan sensor.
 * **Tech Stack:** C++, Arduino/ESP framework.
 
-### 5. Buku ERP Web
-* **Deskripsi:** Modul web untuk sistem Enterprise Resource Planning (ERP) guna mencatat transaksi keuangan dan inventaris.
+### 6. Buku ERP Web
+* **Deskripsi:** Modul web untuk sistem Enterprise Resource Planning (ERP) guna mencatat transaksi keuangan perusahaan.
 * **Tech Stack:** HTML, PHP, PostgreSQL.
 
 ---
 
-## 📝 Jurnal Pembelajaran (Key Learnings)
-Selama 6 bulan di Indonesia IT, saya telah mengasah kemampuan teknis dan manajerial:
-* **Automation Mindset:** Menggunakan **n8n** untuk memangkas proses manual menjadi workflow otomatis.
-* **Full-stack Awareness:** Menangani berbagai layer aplikasi, mulai dari firmware (C++) hingga antarmuka pengguna (Flutter/Blade).
-* **Agile Collaboration:** Beradaptasi dengan lingkungan kerja profesional, melakukan version control yang disiplin, dan pemecahan masalah secara teknis.
-
----
-
 ## 👋 Mari Terhubung!
-Saya selalu terbuka untuk diskusi mengenai teknologi atau peluang kolaborasi lainnya.
 * **LinkedIn:** [kalilaathaachmad](https://www.linkedin.com/in/kalilaathaachmad/)
 * **Email:** kalilaatha8@gmail.com
 * **Portfolio:** [Personal Website](https://portofolio-kal.vercel.app/)
